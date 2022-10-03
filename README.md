@@ -1,0 +1,1 @@
+# cicd-sample-k8s-manifest
