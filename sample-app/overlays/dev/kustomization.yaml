@@ -1,0 +1,7 @@
+resources:
+- ../../base
+
+images:
+- name: sample-app
+  newName: nginx
+  newTag: latest
