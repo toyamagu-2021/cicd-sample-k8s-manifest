@@ -3,5 +3,6 @@ resources:
 
 images:
 - name: sample-app
+  newTag: dev-37cd218ba568f259586409f0f490dc01503e2f0e
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
